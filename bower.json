@@ -1,0 +1,17 @@
+{
+  "name": "prac angular",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "prc ang",
+  "authors": [
+    "fahad"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
